@@ -1,2 +1,2 @@
 # jhonsonclean
-final project of computer sience -> data sience
+final project of computer science -> data science
